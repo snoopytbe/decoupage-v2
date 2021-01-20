@@ -1,2 +1,3 @@
-# decoupage-v2
-Created with CodeSandbox
+# decoupage
+
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/decoupage)
